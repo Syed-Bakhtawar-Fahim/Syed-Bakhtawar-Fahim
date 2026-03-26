@@ -237,7 +237,9 @@ Developed a Python-based automation script to fully clone MySQL databases.
 <a href="https://medium.com/@bakhtawarfahim10" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="mailto:bakhtawarfahim10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://stackoverflow.com/users/19267514/syed-bakhtawar-fahim" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-
+<a href="https://x.com/SyedBakhta3324" target="blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 </div>
 
 <br />
