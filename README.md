@@ -1,7 +1,8 @@
 <div align="center">
 
 # 👋 Hi, I'm Syed Bakhtawar Fahim
-### Senior Software & Data Engineer | Fintech Specialist | Architect
+### Building the future of Regulatory Reporting
+#### Senior Software & Data Engineer | Fintech Specialist | Architect
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-4+%20Years-0077B5?style=for-the-badge&logo=codeforces&logoColor=white" />
